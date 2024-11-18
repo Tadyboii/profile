@@ -6,6 +6,6 @@ import SplineScene from './SplineScene.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <SplineScene />
+    <App />
   </StrictMode>,
 )
