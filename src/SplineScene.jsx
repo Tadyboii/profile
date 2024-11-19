@@ -1,4 +1,5 @@
 import Spline from '@splinetool/react-spline';
+import './SplineScene.css';
 
 export default function SplineScene() {
   return (

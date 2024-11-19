@@ -1,0 +1,8 @@
+.spline-scene {
+    position: fixed;
+    top: -60px;
+    left: -60px;
+    right: -60px;
+    bottom: -60px;
+    overflow: hidden;
+}
