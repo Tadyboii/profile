@@ -1,3 +1,3 @@
 A Portfolio Website
 
-[Click here](tadyboii.github.io/profile)
+[Click here](https://tadyboii.github.io/profile)
