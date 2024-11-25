@@ -1,0 +1,9 @@
+.home{
+  position: relative;
+  pointer-events: none;
+  display: flex;
+  justify-content: center;
+  height: 30vh;
+  align-items: center;
+  font-size: 1.5em;
+}

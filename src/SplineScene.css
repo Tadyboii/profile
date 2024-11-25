@@ -1,8 +1,9 @@
 .spline-scene {
-    position: fixed;
+    position: absolute;
     top: -60px;
     left: -60px;
     right: -60px;
     bottom: -60px;
+    pointer-events: auto;
     overflow: hidden;
 }
